@@ -19,3 +19,5 @@ topics:
   - SSH
 ---
 
+create Connecting - to - github - with - SSH - md
+Add an optional extended subscribed
